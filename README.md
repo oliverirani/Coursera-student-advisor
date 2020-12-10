@@ -1,3 +1,2 @@
-# Coursera-student-advisor
-A Chatbot for advising students on coursera
-
+# Coursera_Student_Advisor
+A Chatbot for advising students
